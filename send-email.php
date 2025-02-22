@@ -4,7 +4,7 @@ $table_enquirylist="".DB_PREFIX."_enquiry_list";
 if(isset($_REQUEST["submit"]))
 {
 $from_email ="Noreply@gmail.com";
-$to_mail_admin = "admin@globalcenterofarts.com ";
+$to_mail_admin = "globalcenterofarts@gmail.com ";
 $bcc_mail = "globalcenterofarts@gmail.com";
 //$to_mail_admin = "beulahviwb1220@gmail.com";
 //$bcc_mail = "beulahviwb1220@gmail.com";
@@ -25,7 +25,7 @@ $bcc_mail = "globalcenterofarts@gmail.com";
 					<table align='center' border='0' cellpadding='0' cellspacing='0' style='width:70%; margin-top:60px; margin-bottom:60px;border:1px solid #dedede;'>
 						<tbody>
 							<tr>
-								<td colspan='3' style='background-color:#d5d5d7; text-align:center; padding:10px 0%'><img alt='logo' src='https://globalcenterofarts.com/img/GCA-logo.png' style='height:90px;'/></td>
+								<td colspan='3' style='background-color:#d5d5d7; text-align:center; padding:10px 0%'><img alt='logo' src='https://globalcenterofarts@gmail.com/img/GCA-logo.png' style='height:90px;'/></td>
 							</tr>
 							<tr>
 								<td style='background-color:#ffffff'>

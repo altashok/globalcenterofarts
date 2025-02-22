@@ -59,7 +59,7 @@
         </div>
         <div class="emailaddress">
           <i class="fa fa-envelope" aria-hidden="true"></i>
-          <a href="mailto:admin@globalcenterofarts.com">admin@globalcenterofarts.com</a>
+          <a href="mailto:globalcenterofarts@gmail.com">globalcenterofarts@gmail.com</a>
         </div>
         <!--<div class="aff-no">
         Affiliation No : 12345

@@ -175,7 +175,7 @@
   <div class="container">
     <div class="col-md-4 smal-dev-clearfix ani wisewood-cont-abt">
       <div class="news-heading">
-        <h5><span>Academic Year 2021-2022</h5>
+        <h5><span>Academic Year 2024-2025</h5>
       </div>
       <p>Accepting registration & enrollment for the grade examinations</p>
       <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a>
@@ -189,26 +189,26 @@
       <!--Daete start-->
       <div class="date-wise">
         <div class="date-time">
-          <p>10 </p>
+          <p>22 </p>
           <div class="clearfix"></div>
-          <span>Nov</span>
+          <span>Feb</span>
         </div>
         <div class="annual-day"></div>
-        <b>Cut off date for receiving registrations for grade examinations</b><br>
-        <p>Kindly register for the grade examinations scheduled for december 2021</p>
+        <b>Grade exams at Medavakkam & Aarani</b><br>
+        <p>Examinations for the Indian classical performing arts Feb-2025</p>
       </div>
       <!--Daete end-->
 
       <!--Daete start-->
       <div class="date-wise">
         <div class="date-time"> 
-          <p>15</p>
+          <p>TBD</p>
           <div class="clearfix"></div>
-          <span>Dec</span>
+          <span>Apr</span>
         </div>
         <div class="annual-day"></div>
-          <b>Annual Examinations</b><br>
-          <p>Examinations for all the performing arts will be conducted online & in center</p>
+          <b>"Gurushyam" Global Achievement Award</b><br>
+          <p>Griffin College London International Examination Board</p>
       </div>
 
       <div class="clearfix"></div>

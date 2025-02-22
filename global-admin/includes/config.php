@@ -13,8 +13,8 @@ define("DB_PREFIX", "sa");
 	define("DB_USER", "bcayjamy_mainusr");
 	define("DB_PASS", "Karthick@3030");
 
-	$sitepath='https://globalcenterofarts.com/';
-    $siteadminpath='https://globalcenterofarts.com/global-admin/';
+	$sitepath='https://globalcenterofarts@gmail.com/';
+    $siteadminpath='https://globalcenterofarts@gmail.com/global-admin/';
 
 include('mysqli_class.php');
 

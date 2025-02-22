@@ -2,7 +2,7 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="dashboard.php" class="brand-link">
-      <img src="https://globalcenterofarts.com/img/GCA-logo-name.png" alt="SAHA Interiors" class="brand-image img-circle elevation-3"
+      <img src="https://globalcenterofarts@gmail.com/img/GCA-logo-name.png" alt="SAHA Interiors" class="brand-image img-circle elevation-3"
            style="opacity: .8">
       <span class="brand-text font-weight-light">Global Center of Arts</span>
     </a>

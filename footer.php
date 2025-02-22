@@ -53,7 +53,7 @@
         <p>+91-86829 01099</p>
       </div>
       <div class="emailaddress">
-          <a href="mailto:admin@globalcenterofarts.com">admin@globalcenterofarts.com</a>
+          <a href="mailto:globalcenterofarts@gmail.com">globalcenterofarts@gmail.com</a>
       </div>
     </div>
   </div>
